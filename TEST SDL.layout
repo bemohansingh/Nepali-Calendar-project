@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="calculator.h" open="1" top="0" tabpos="15">
+		<Cursor position="111" topLine="1012" />
+	</File>
+	<File name="declarevar.h" open="1" top="0" tabpos="8">
+		<Cursor position="9135" topLine="244" />
+	</File>
+	<File name="event.h" open="1" top="0" tabpos="7">
+		<Cursor position="6921" topLine="152" />
+	</File>
+	<File name="festival.h" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="fhide.h" open="1" top="0" tabpos="4">
+		<Cursor position="9085" topLine="114" />
+	</File>
+	<File name="fun.h" open="1" top="0" tabpos="10">
+		<Cursor position="843" topLine="2574" />
+	</File>
+	<File name="gk.h" open="1" top="0" tabpos="14">
+		<Cursor position="42965" topLine="554" />
+	</File>
+	<File name="load_clean.h" open="1" top="0" tabpos="9">
+		<Cursor position="237" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="16646" topLine="1098" />
+	</File>
+	<File name="mouse.h" open="1" top="0" tabpos="2">
+		<Cursor position="1005" topLine="1964" />
+	</File>
+	<File name="nep-eng cal.h" open="1" top="1" tabpos="11">
+		<Cursor position="4350" topLine="168" />
+	</File>
+	<File name="password.h" open="1" top="0" tabpos="13">
+		<Cursor position="4499" topLine="327" />
+	</File>
+	<File name="pholiday.h" open="1" top="0" tabpos="5">
+		<Cursor position="1014" topLine="38" />
+	</File>
+	<File name="reminder.h" open="1" top="0" tabpos="3">
+		<Cursor position="0" topLine="1280" />
+	</File>
+	<File name="setting.h" open="1" top="0" tabpos="12">
+		<Cursor position="3405" topLine="121" />
+	</File>
+</CodeBlocks_layout_file>

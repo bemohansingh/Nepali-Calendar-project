@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1372576089 source:d:\my project\sdl projects\calender project\main.cpp
+	"declarevar.h"
+	"reminder.h"
+	"pholiday.h"
+	"password.h"
+	"gk.h"
+	"calculator.h"
+	"setting.h"
+	"fun.h"
+	"event.h"
+	"mouse.h"
+	"nep-eng cal.h"
+	"load_clean.h"
+	"fhide.h"
+
+1372475439 d:\my project\sdl projects\calender project\declarevar.h
+	"SDL.h"
+	"SDL_image.h"
+	<string>
+	<windows.h>
+	<conio.h>
+	<wchar.h>
+	"SDL_ttf.h"
+	<stdio.h>
+	<math.h>
+
+1372045764 d:\my project\sdl projects\calender project\password.h
+
+1372394175 d:\my project\sdl projects\calender project\setting.h
+
+1369796179 d:\my project\sdl projects\calender project\fun.h
+
+1372385391 d:\my project\sdl projects\calender project\event.h
+
+1372561208 d:\my project\sdl projects\calender project\mouse.h
+
+1372573731 d:\my project\sdl projects\calender project\nep-eng cal.h
+
+1369819609 d:\my project\sdl projects\calender project\load_clean.h
+
+1371368582 d:\my project\sdl projects\calender project\fhide.h
+
+1372378226 d:\my project\sdl projects\calender project\gk.h
+	<ctime>
+
+1372343382 d:\my project\sdl projects\calender project\calculator.h
+
+1372388175 d:\my project\sdl projects\calender project\reminder.h
+
+1372391589 d:\my project\sdl projects\calender project\pholiday.h
+
